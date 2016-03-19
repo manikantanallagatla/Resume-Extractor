@@ -1,0 +1,903 @@
+Ostarion king
+
+profile: 
+
+goal oriented with ability to handle multiple tasks 
+results-oriented a lead web professional with focusing on delivering high-quality code and products in high 
+traffic environments. enthusiastic about the designing and developing the web enabled project. proven 
+leadership ability; capable of keeping a team focused on day-to-day tasks and long-term deadlines. 
+
+9+ years of experience in the internet industry, specialized in lamp technologies or other web technology 
+applications. experienced in all points of application development processes, including architecture, solutions 
+of problem; database design, user interface, e-commerce, security, web services, server administration, and 
+quality assurance. 
+
+summary: 
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+being able to get away easily at any level in the organization, feel confident in dealing with situations 
+at hand and can turn around things that are ‘worst’ to ‘best’. 
+ambitious, highly motivated and ability to face the challenging work environment and deliver quality 
+output while meeting deadlines. 
+goal oriented with ability to handle multiple tasks. 
+extensive knowledge of programming procedures and programming languages 
+in-depth knowledge of implementing and troubleshooting programming modifications and changes 
+ability to learn and support new applications and systems 
+possess excellent problem solving and analytical skills 
+ability to build and maintain good relationships with vendors/team. 
+excellent command over oral and written communications 
+
+
+corresponding address 3rd floor , plot 103 , 5th cross, kullappa colony , jeevan bhima nagar post , bangalore, india pin code: 560017 email: ostarionking@example.com mobile : +91987654002 skype: ostarionking linked in: http://www.linkedin.com/in/ostarionking blog: http://ostarionking.wordpress.com major technical skills 
+php, mysql, apache, linux, html5, javascript, css3, web application,jquery,angular.js,rest,.net, shell 
+scripting, monitoring tools, crm, seo, web analytics, erp, mis, java, wordpress, drupal, python 
+
+specialties:- 
+- requirement definition& use case definition 
+- solution & services architecture 
+- code development & review 
+- web & mobile development 
+- cloud computing 
+- integration, deployment and configuration management 
+
+detailed skill set: 
+
+s.notechnologiesskills1web technologiesphp, python. net, perl, java, node.js2web serveriis5,apache2,nginx,tomcat3cachememcache, redis4databasemysql, ms access,ms sql server , mongodb5operating systemlinux, windows6reportingcrystal reports, business objects, dashboards, ms-excel7data modeling toolsms access, sql server,8cmswordpress, drupal9frameworksyii (php), kohana(php), zend(php), .net, cake(php), django(python)10languagephp,c++, java, python, perl11project managementscrum, sdlc, agile methodology, redmine, rally12additionalmis,erp13scriptingshell script, vb script,javascript,jquery,angular.js,require.js14authenticationoauth, basic, digest, sso15toolsnagios, svn, putty, winscp, source tree, beyond compare, navicat16seogoogle17idesvisual studio, eclipse, zend , sap hana studio 18e-commerce appopen cart, magento 
+skill set used for sap assignment: 
+
+1.
+
+2.
+
+sap hana db, created hana modeling scenarios and activities such as creating schemas and content 
+models, attributes and measures, hierarchies etc. 
+sap hana studio (ide) basic hands on 
+
+professional experience 
+
+technical lead 
+
+dec-2014 to present 
+
+tabtor, bangalore, india 
+
+conceptualize and designing for the complex product development. 
+
+development of the architectural, design artifacts, solutions to product requirements. 
+
+technical leadership for the design, development, testing, implementation effort. 
+
+assess and manage functional and non-functional requirements and ensure that they are addressed with the 
+technical solution. 
+
+evaluate technology 
+
+mentoring and guiding colleagues in the progression and development of their technical skills. 
+
+lead engineer 
+
+july 2011 -dec-2014 
+
+above solutions inc, bangalore, india [www.above-inc.com] 
+
+•
+
+develop and maintain current and plan for architecture of new/existing project. 
+
+19cloud computing & platformamazon, microsoft azure 20webservicerest,soap21media serverwowza 3, window media server, shoutcast, icecast  22source code managementgit, svn 
+•
+
+•
+•
+•
+•
+•
+•
+
+•
+
+•
+•
+•
+•
+
+•
+•
+
+assist to project manager for helping to different operational activity and defining project road map 
+and suggestion to resource allocation. 
+ensuring team purpose, goals, deliverables, documented and aligned. 
+drive effort to address issues proactively and follow-up to internal/external team. 
+own the communication of internal team and external team. 
+delegation and prioritization of work among team across the project. 
+monitoring to team for day to day activity and escalates whenever it requires. 
+drive daily scrum meeting and do regular meeting of new work flow/existing of sprint across the 
+project.  
+establish and facilitate the process of periodic team health checks and introduces new/update the 
+existing process whenever it requires. 
+innovation needs to bring in process for maximizing the resource very well. 
+actively involves in the code review process of the team. 
+guiding and giving directions to the team. 
+prepare learning plan to each individual team and provide presentation on new topic. mentoring to 
+internal/external team for adding value and more collaboration environment. 
+involves in the code review process and update daily build. 
+suggest to technology update to team. 
+
+project #1 
+
+ 
+
+hulacopter app 
+
+title 
+ 
+client 
+skills used 
+team size 
+role 
+
+ 
+ 
+ 
+2 
+developer, architecture design 
+
+hulacopter, hawaii 
+python-django, jquery mobile ,post gre and linux, piston api 
+
+ 
+ 
+
+ 
+
+project description 
+
+hulacopter provides dynamic deal to quickly sell your perishable inventory and connect with vacationers by 
+pushing last-minute promotions directly to their smartphones in real-time. offer a deal to fill those last few 
+seats on tomorrow’s tour. create offers today that reflect your current bookings. market your business in real-
+time. leverage our online marketing partners. 
+hulacopter is a fun new way to find exciting activities, fun things to do, and great deals while on vacation. it 
+puts a guide book, a travel agent, a local friend, and a direct line to merchants' deals all in the palm of your 
+hand. 
+
+• the app has been designed for the mobile client and it works the cross platform for any mobile handset. 
+• this platform has built on soa architecture in the python, post gre database and deployed in apache. 
+• input forms & validation 
+• reports 
+• user authentication & authorization 
+• google maps for the merchant address. 
+• email integration and registration report. 
+• there is a django-python based admin panel where data can be added, edited, deleted and viewed 
+
+responsibilities: 
+analyze the requirement, code development, architecture design and involved in deployment of the 
+developing application. 
+understanding of the code flow and doing the necessary code change if it requires any. 
+
+•
+
+•
+
+•
+
+•
+•
+•
+
+•
+
+handling development (enhancement and bug fix), scalability, unit testing, code review and kick off 
+meetings with customers. 
+handling requirement analysis and technical queries with team members. 
+given sudden solution for critical issue and guided the team members at the time of critical supports. 
+conducting weekly meeting for the knowledge transfer for cross modules knowledge and technical 
+queries. 
+solved legacy issue in the base code which increased the quality of the product 
+
+ silatech web portal 
+ silatech, qatar 
+
+project #2 
+title 
+ 
+client 
+skills used 
+tomcat, apache 
+ 
+team size 
+role 
+ 
+
+ 
+
+ 
+
+php, mysql, html,css, jquery, java, jsp, servlet, cas, mantis, orangehrm, 
+
+5 
+developer 
+
+project description 
+
+•
+
+•
+
+•
+
+•
+
+•
+
+silatech project is a hr management platform. in this application, the orangehrm has been used for 
+hr management of the web application, mantis has used for online bug tracker, oas and front end has 
+been designed in the jsp & servlet and also used in php as core engine. 
+
+it allows organizations to automate many aspects of human resource management, with the dual 
+benefits of reducing the workload of the hr department as well as increasing the efficiency of the 
+department by standardizing hr processes. this module makes sure that every employee in the 
+organization is handled effectively and efficiently as per the policies and processes of the 
+organization, set by the human resource department.  
+
+delivered efforts on the designing application, maintenance, developing customer satisfaction is often 
+important to company success and relationship building. 
+
+sso/cas login system is used for the logging into central system and the logout can be exited from 
+the system at a time. 
+
+the international language option is there to change the language setting. this website is provided to 
+view in the arabic & english language. 
+
+responsibilities: 
+
+•
+•
+
+involved in the code development, review and uat. 
+module ownership for technical development & integration 
+
+project #3 
+title 
+ 
+client 
+skills used 
+team size 
+role 
+
+ 
+
+explocity.com 
+explocity 
+
+ 
+ 
+ wordpress, php, mysql, html, css, linux, amazon, mailchamp, seo 
+ 
+ 
+
+4 
+lead developer, solution & application architecture, release manager 
+
+project description: 
+
+explocity.com covers new york, dubai and six leading metros in india including bangalore, delhi, mumbai, 
+chennai, hyderabad and kolkata. explocity.com is the best city guide you can find. pick a city to get the 
+latest information on daily events, the latest movies that are now playing, and information listings of city 
+maps, city hotels, restaurants, shops, pubs, bars, nightclubs, spas, health clubs, discos, city business 
+establishments and a ton of information on city sights and attractions, museums, entertainment venues and 
+city tours. explocity.com offers a complete visitor guide to the city for those planning a trip. 
+
+•
+
+•
+
+•
+
+•
+•
+•
+•
+
+administered apache web servers and mysql databases. 
+
+customized wordpress application as per the requirement, created plugins, added admin functionality 
+to remove operational activities and provided role based access level. 
+
+enabled cache and apc to improve the performance. 
+
+pre design analysis detail designing post analysis (table designing and pl/sql code). 
+managing, guiding and supporting team for day today project activities. 
+monitoring the performance of developed modules in and out of whole project. 
+performance tuning for the current project as individual contributor. 
+
+responsibilities: 
+
+•
+•
+•
+
+•
+
+•
+
+analyze the requirement, architecture design, code development, plugins and theme development. 
+planning and estimating the deadlines for the team and planning the work in a timely fashion. 
+handled requirement analysis with client and convert the business into technical requirement to 
+complete end to end work flow of the business work flow. 
+acted as a primary support for the project and handled technical queries from team members to 
+senior management/client. 
+release & deploy of the application in the server. 
+
+project #4 
+title 
+ 
+client 
+major skills used 
+
+ radiowalla.in 
+ radiowalla network pvt. ltd. 
+
+yii framework, restler, zend, php, mysql, html, linux, amazon, windows 
+
+azure, mailchamp, paypal, e-commerce, ccavenue, sms gateway integration, apache 
+solr, memcache,apc, amazon cloud s3 integration, nagios, opencart, magento, 
+android, ios, mongodb, redis, node.js etc 
+5 
+lead developer, designing, architecture, release manager 
+
+team size 
+role 
+
+ 
+
+ 
+ 
+
+project description: 
+
+radiowalla is online radio solution platform which is available on web, facebook, android, ios and blackberry. 
+user can sign-up and sign-in by using fb, gmail and mobile and can listen freely of few of the channels and 
+can subscribe these channels for monthly, six monthly and yearly and do transaction by using paypal and 
+ccavenue payment gateways. 
+• to build a robust platform based on the multitier architecture, built in yii framework of php. 
+• designing a custom framework for rest-style architecture. a resource can be essentially any coherent and 
+meaningful concept that may be addressed. a representation of a resource is typically a document that 
+captures the current or intended state of a resource. 
+
+• this framework gives flexibility to design api and it can be exposed in the different response format like as 
+json, xml, and yaml. memcached is used for the data caching and also configured php apc to improve the 
+performance of the code execution and exposed api is used for the third party integration app like as 
+mobile , widget ,web etc 
+icecast has used for the streaming by using http protocol, runs on multicast approach and highly scalable 
+and added an authentication module for the token verification of each channel. 
+
+•
+
+•
+
+sign up and sign in by facebook, twitter, gmail and mobile. 
+
+•
+
+apache solr installation, configuration and added custom search functionality for the radiowalla on-
+demand data. 
+
+• live music & live talk show 
+•
+•
+•
+• write monitoring plug-in and installed and configured web dashboard of nagios to monitor the platform 
+
+facebook and twitter share integration. 
+embedded radiowalla player in the facebook app to get maximum user signup into the platform. 
+epg ftp folder update on channel master playlist on the daily basis. 
+
+and content server. 
+
+•
+
+•
+
+•
+
+setting up the different reports which have been sent by email to respective recipient by using cronjobs. 
+
+installation of ssl certification and configure sub domain in dns and apache. 
+
+refactored js & css across the entire site improving page render speed by 30%. 
+
+• wrote web pages and templates using w3c web standards (xhtml and css). 
+
+•
+
+•
+
+•
+
+improved search rankings for web sites using semantic xhtml and link campaigns. 
+
+module design for subscription & payment gateway integration. 
+
+ayn app has designed for uploading user’s recorded voice from mobile app to web app for moderation 
+process, after successful voice of the user can be seen in the global list and can be liked and favorite by 
+communities. 
+
+responsibilities: 
+•
+
+requirement, architecture design, code development. architecture designs (application and db design), 
+put the right design pattern and write algorithms to improve the performance of the developing business 
+logic in the application. 
+planning and estimating the deadlines for the team and planning the work in a timely fashion. 
+
+•
+• worked in requirement, development and involved in deploy the application and kick off meetings with 
+
+•
+
+customers. 
+handled requirement analysis with client and convert the business into technical requirement to 
+complete end to end work flow. 
+delegation and prioritization of work among team. 
+acted as a primary support for the project and handled technical queries from team members. 
+to set up and configure the production machine and installed required application. 
+release & deploy of developed application in the server. 
+
+•
+•
+•
+•
+• written unit test and uat for the enhancements. 
+
+project #5 
+title 
+ 
+client 
+skills used 
+
+team size 
+role 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+graphic india comic platform 
+graphic india pte. ltd., singapore 
+yii framework, php, mysql, html, linux, amazon, in app payment, e-commerce, sms 
+gateway integration, email integration, apache solr, s3 integration, android, ios 
+7 
+lead developer, architecture, release & deployment manager 
+
+project description: 
+graphic india is a comic platform to visualize a wonderful comic experience in mobile app, provides contents 
+of comic in the form of images and video and complete platform has been built in soa architecture in lamp 
+stack through exposed api to the mobile app such as windows and android (mobile+tablet). all contents are 
+stored in the youtube and s3 of amazon to streaming the video of comic in the app. there is an admin panel 
+for maintaining all contents and control over the mobile app functionality; generating different reports. 
+
+responsibilities: 
+
+•
+
+•
+
+•
+•
+
+analyze the requirement, architecture design, and code development and involved in deployment of 
+the developing application. 
+handled requirement analysis with client and convert the business into technical requirement to 
+complete end to end work flow of the business work flow. 
+acted as a primary support for the project and handled technical queries from team members. 
+to set up and configure the production machine and installed required application and deploy apps 
+
+project #6 
+ 
+title 
+client 
+skills used 
+
+ 
+ 
+
+team size 
+role 
+
+ 
+
+ 
+ 
+
+project description: 
+
+weightlessproject.org 
+weightlessproject 
+kohana framework (php), mysql, html, linux, amazon, paypal, e-commerce, email 
+integration, s3 integration, oauth 2.0,load balancer ebs, rds database, cache 
+4 
+lead developer, architecture, release & deployment manager 
+
+this project works for capturing user calories data of different devices in the platform and accumulates this 
+contribution to amount (for example: 1000 calories to $1) and donates to social organization and user can 
+pledge directly. 
+
+o user sign up and sign-in 
+o add/remove device (fitbit, jawbone, get active) by using oauth and set as your device preference. 
+o dashboard to see the contribution by graph for daily, weekly and monthly. 
+o top calorie contributor and user can pledge/donate directly. 
+
+responsibilities: 
+
+•
+•
+
+•
+
+•
+
+requirement, architecture design, db design, code development. 
+handled requirement analysis with client and convert the business requirement to technical 
+requirement to complete end to end work flow. 
+identified strategies for scaling applications based on hardware needs, caching schemes, database 
+expansion and optimization, and application tuning. 
+release & deploy of developed application in the server. 
+
+ chopra ondemand 
+ chopra foundation 
+
+project #7 
+title 
+ 
+client 
+skills used 
+
+team size 
+role 
+project description: 
+
+ 
+ 
+
+ 
+
+php, mysql, html5, css3, angular.js, bootstrap, linux, amazon, in app payment, e-
+commerce, email integration, apache solr, s3 integration, php unit test 
+5 
+lead developer, architecture 
+
+this is on-demand for video platform of chopra foundation, provides free and paid video available on 
+different category. all contents are stored in the vimeo and developed the web application in the soa 
+architecture. implemented the e-commerce systems including shopping cart applications in php and mysql, 
+integrated payment gateways such as paypal and performed security audits. 
+
+responsibilities: 
+
+•
+
+•
+
+understand, create, define and document detailed business and functional requirements at product 
+and release levels 
+proactively communicate and collaborate between the business and engineering stakeholders 
+
+• work closely with developers, ux experts and tester to build the system through all phases; analysis, 
+
+design, coding, testing and deployment 
+conduct and drive daily scrum meetings, sprint planning and retrospective meetings; release planning 
+and code reviews 
+maintained web analytics, conversion reporting, and log analysis tools, including awstats, analog and 
+google analytics. 
+
+•
+
+•
+
+ 
+ 
+
+ 
+project #8 
+title 
+ 
+client 
+skills used 
+team size 
+role 
+project description: 
+online learning platform is built in the moodle on lamp stack. platform provides free and paid contents of 
+different courses and student can enroll of any course and by paying for the paid contents. to design and 
+develop a plugin to attach in the developed application of different team for the by-passing mysql db to sap 
+hana db by exposed api in xsjs script and wrote stored procedures in sap hana. 
+
+chopra online 
+chopra foundation 
+moodle, php, mysql, html, linux, plugin, sap hana integration, xsjs script, pl/sql 
+4 
+lead developer, architecture 
+
+ 
+ 
+
+ 
+
+responsibilities: 
+
+designing of plugin of event trigger model approach. 
+
+• worked in requirement analyze, architecture design, code development. 
+•
+• worked closely with sap labs india pvt. ltd. team, bangalore. 
+•
+
+regular visit to support onsite team and understand the existing work flow and provide technical 
+assistance to internal team to develop the plugin and actively involved in the architecture design and 
+validation of the developing poc. 
+
+project #9 
+client 
+skills used 
+
+team size 
+role 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+spotradio.in 
+radiowalla network pvt. ltd. 
+python 2.7, django, post gre, html, windows server, custom player, encryption & 
+decryption, ftp, rest api, http 
+2 
+developer 
+
+project description: 
+this is a standalone application which builds for providing audio solution in the stores. a dedicated content 
+server is being maintained for the daily playlist and these contents are downloaded by player and encrypted 
+before storing in the store machine and do decryption before playing. 
+
+responsibilities: 
+
+• worked in requirement analyze, code development and update of the existing code base. 
+•
+
+acted as a primary support for the project and handled technical queries from team members. 
+
+ 
+
+project #10 
+client 
+skills used 
+team size 
+role 
+project description: 
+
+ 
+ 
+
+ 
+
+ganjam 
+ganjam jeweller 
+drupal, php, mysql, linux, amazon, apc, cache 
+4 
+architecture, release & deployment manager 
+
+ganjam is an exclusive jeweller shows room for traditional fashion. website has been designed and developed 
+by using drupal as a cms in lamp stack and provided admin panel to do all operational activities of website 
+and also image upload of the product catalog. 
+
+responsibilities: 
+
+• worked in architecture design of the website. 
+•
+•
+
+code review & uat 
+provided the technical leadership, help them to define core feature and plugin can be brought in the 
+solution. 
+deployment of the application, setup and configuration of the server. 
+
+feb’ 2009 –june’ 2011 
+technical officer , m&e 
+fhi, new delhi , india [www.fhi.org] 
+
+provide the technical support to the technical officer, data management and analysis; code, test and 
+troubleshooting programs utilizing the appropriate hardware, database, and programming technology for 
+monitoring & evaluation under avahan project, grant funded by bmgf (microsoft’s social foundation), usa. 
+
+maintain and modify programs; make approved changes by amending flow charts, develop detailed 
+programming logic, and coding changes. write and maintain programming documentation. the program will 
+provide troubleshooting support to partners using the software, help in managing a website for the ibba and 
+cmis, work closely with other members of the fhi team, assist personnel of other departments as a computer 
+resource and manage online mis system for avahan, reports, designing database, developing application and 
+testing for cmis on the client and server level, automation of website. 
+
+engineering lead for the core platform team for developing the cmis system, which manages aspects including 
+database optimization and shading, site performance (speed), application monitoring tools, data storage. 
+
+•
+
+monitor and improve front-end performance (http headers, domain shading, asset versioning). 
+
+• wrote data analyzer processing tools for resizing 2 million data. 
+
+designing and developing their mis application in wamp stack. which provides to upload the data 
+format in the excel file and added the consistency checks in the certain parameter during uploading 
+by partner agencies of different location. provide report generation by different parameter of 
+different navigation level. 
+
+performed load testing with tools like http_load and ab (apache bench). 
+
+increased speed of front-end applications by adding messaging services/queuing. 
+
+identified strategies for scaling applications based on hardware needs, caching schemes, database 
+expansion and optimization, and application tuning. 
+
+developed a standalone application to generate report from ms sql server and export to excel 
+format. 
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+nov’ 2008-feb’ 2009 
+mis consultant (www.bsacs.org)  
+bsacs 
+patna, india 
+
+•
+
+support the information needs assessment, planning, application development, implementation, 
+regular review and updating of the strategic information management (sim) packages being developed 
+by the selected agency, including computerized management information system (cmis), 
+computerized project financial management systems (cpfms), smart card and business intelligence 
+applications. 
+
+•
+
+•
+•
+
+•
+
+be the interface of naco with the agency developing the sim packages and ensure its successful 
+planning, finalization and roll out such that it adequately fulfills the needs of the national program at 
+national, state and district levels. 
+identify challenges in implementation of sim package and provide feasible solutions. 
+provide expert advice and ensure smooth operations on supporting back-end operations to implement 
+the package at national, state and district level to ensure that it is responsive to the evolving needs 
+of the program. 
+refactored the large portions of legacy code. 
+
+tools used: visual studio (vb), adodb, lamp, crystal report & ms sql server 
+
+encrypto soft solution pvt. ltd. 
+analyst (jan 2005-sep 2008) 
+patna , india 
+
+managed development team, hired contractors, and planned for staffing requirements. determined 
+technology direction for company and worked with systems administrator to manage internal infrastructure 
+and technical assistance to the international and national organization, company and government agency. 
+complete/oversee the custom development and quality assurance efforts for custom work. participate and 
+lead, when needed, the project meetings with the customer. 
+
+•
+•
+
+•
+
+•
+
+•
+•
+•
+•
+•
+
+manage multiple development designs and projects to meet project and customer required time lines. 
+reduced failures in live applications by implementing new development and staging environments and 
+setting policies for scheduled deployments. 
+development for web and standalone applications. introduced mvc-style development and other best 
+practices, including separation of database objects, business logic, and presentation layers. 
+develop the programming code from scratch or by adapting existing website graphics packages and 
+software to meet business requirements 
+performed browser testing, security audits, and stress tests. 
+testing the website and identifying any technical problems and hitches 
+maintained vendor relationships and identified new technology partners. 
+establishing the purpose of the website based on its target audience. 
+designing and developing web applications in lamp and .net. 
+
+onsite project: sankalp (unicef funded) at bepc 
+mis consultant 
+duration: six months 
+patna, india 
+to develop a standalone application to maintain the state level data and generate consolidate reports of 
+different hierarchy level. different consistency checks on the data to restrict the duplicity of the records 
+while data entry by operators. 
+tools used: vb, mysql, mssql server, windows os 
+
+education 
+
+•
+
+•
+
+master of computer application(mca) 
+2009-2011, sikkim manipal university ,delhi, india 
+bachelor in computer application(bca) 
+2003-2007, indira gandhi national open university, patna, india 
+
+certification 
+
+•
+•
+•
+
+kingacc ‘o’ level (2005) , india 
+kingacc ‘a’ level (2006) , india 
+certificate in management (2014) from icfai, bangalore, india 
+
+achievement 
+
+•
+•
+
+got a promotion from technical assistant to technical officer in fhi, 2011 
+got an appreciation letter and prize was awarded for best performance of the year- “above and 
+beyond call on duty” by above solutions inc,2013 
+
+signature: 
+date:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

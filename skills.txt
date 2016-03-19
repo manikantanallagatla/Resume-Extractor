@@ -1,0 +1,151 @@
+
+Management
+Business
+TBD
+Sales 
+Marketing
+TBD
+Communication
+Microsoft Office
+Customer Service
+Training
+Microsoft Excel
+Project Management
+Designs
+Analysis
+Research
+Websites
+Budgets
+Organization
+Leadership
+Time Management
+Project Planning
+Computer Program
+Strategic Planning
+Business Services
+Applications
+Reports
+Microsoft Word
+Program Management
+Powerpoint
+Negotation
+Software
+Networking
+Offices
+TBD
+English
+Data
+TBD
+Education
+Events
+International
+Testing
+Writing
+Vendors
+Advertising
+Databases
+Technology
+TBD
+Finance
+Retail
+accounting
+social media
+Teaching
+Engineering
+Performance Tuning
+Problem Solving
+Marketing Strategy
+Materials
+Recruiting
+Order Fulfillment
+Corporate Law
+Photoshop
+TBD
+Human resources
+Public speaking
+Manufacturing
+Internal Audit
+strategy
+Employees
+Cost
+Business Development
+Windows
+TBD
+Public Relations
+Product Development
+Auditing
+Business Strategy
+Presentations
+Construction
+Real Estate
+Editing
+Sales Management
+Team Building
+Healthcare
+TBD
+Revenue
+Compliance
+Legal
+Innovation
+Policy
+Mentoring
+Commercial Real Estate
+Consulting
+Information Technology
+Process Improvement
+Change management
+Heavy Equipment
+Teamwork
+Promotions
+Facilities Management
+interpersonal
+organizational
+decision-making
+php
+mysql
+apache
+linux
+html5
+javascript
+css3
+web application
+jquery
+angular.js
+rest
+.net
+shell 
+scripting
+monitoring tools
+crm
+seo
+web analytics
+erp
+mis
+java
+wordpress
+drupal
+python 
+c++
+java
+shell
+python
+html
+javascript - ajax
+jquery
+app framework
+mean stack
+django
+bootstrap
+technology
+git
+unix
+spss
+sas windows
+unix
+macintosh
+c
+c++
+java
+html
+oracle
+visual basic
